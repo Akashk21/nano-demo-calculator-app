@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonif
+from flask import Flask, request, jsonify
 from dataclasses import dataclass
 
 @dataclass
